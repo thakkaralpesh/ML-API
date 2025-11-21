@@ -1,0 +1,6 @@
+@ML_API_HostAddress = http://localhost:5129
+
+GET {{ML_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

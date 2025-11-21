@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ML-API/ML-API.csproj" />
+  <Project Path="ML-Application/ML-Application.csproj" />
+  <Project Path="ML-Domain/ML-Domain.csproj" />
+  <Project Path="ML-Infrastructure/ML-Infrastructure.csproj" />
+</Solution>
